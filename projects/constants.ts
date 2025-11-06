@@ -1,0 +1,1 @@
+export const DEFAULT_TIMEOUT_IN_MS = 2000;

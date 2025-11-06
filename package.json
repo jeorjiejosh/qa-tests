@@ -1,0 +1,25 @@
+{
+  "name": "qa-tests",
+  "version": "1.0.0",
+  "description": "Compilation of my automated QA tests \r Personal Projects & QA automation trials",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeorjiejosh/qa-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jeorjiejosh/qa-tests/issues"
+  },
+  "homepage": "https://github.com/jeorjiejosh/qa-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
